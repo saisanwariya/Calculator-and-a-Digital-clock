@@ -1,4 +1,4 @@
-# Calculator and Digital Clock Program with HCS12
+<h1 align="center">Calculator and Digital Clock Program with HCS12</h1>
 
 ## Overview
 
